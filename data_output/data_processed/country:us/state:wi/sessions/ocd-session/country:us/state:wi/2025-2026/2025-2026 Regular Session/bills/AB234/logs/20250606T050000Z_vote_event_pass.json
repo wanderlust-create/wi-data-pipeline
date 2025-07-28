@@ -1,0 +1,34 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on State Affairs, Ayes 8, Noes 2",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-06-06T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "f3e6ef98-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "AB234",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist205354",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist205354-AB234",
+  "_id": "f3fa1f00-6b76-11f0-9b6a-02d480e73fed"
+}

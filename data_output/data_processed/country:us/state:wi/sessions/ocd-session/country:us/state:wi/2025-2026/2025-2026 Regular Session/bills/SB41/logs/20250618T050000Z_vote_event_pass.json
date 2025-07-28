@@ -1,0 +1,32 @@
+{
+  "identifier": "",
+  "motion_text": "Senate Amendment 2 rejected, Ayes 17, Noes 15",
+  "motion_classification": [],
+  "start_date": "2025-06-18T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "c2f10a36-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "SB41",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 15
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB41-SA2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB41-SA2-SB41",
+  "_id": "c30e5ff0-6b76-11f0-9b6a-02d480e73fed"
+}

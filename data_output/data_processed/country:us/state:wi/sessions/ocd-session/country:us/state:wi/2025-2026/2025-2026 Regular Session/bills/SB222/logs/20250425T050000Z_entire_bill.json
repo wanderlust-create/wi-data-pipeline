@@ -1,0 +1,181 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB222",
+  "title": "Relating to: extortion, sexual extortion, and providing a penalty.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced by Senators James, Tomczyk, Cabral-Guevara and Quinn; \ncosponsored by Representatives Snyder, B. Jacobson, Spiros, Armstrong, Behnke, Brill, Callahan, Dittrich, Goeben, Gundrum, Joers, Kaufert, Knodl, Kreibich, Krug, Maxey, McCarville, Miresse, Moses, Mursau, Novak, O'Connor, Piwowarczyk, Rodriguez, Sinicki, Steffen, Stubbs, Subeck, Wichgers and Doyle",
+      "date": "2025-04-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read first time and referred to Committee on Judiciary and Public Safety",
+      "date": "2025-04-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senator Smith added as a coauthor",
+      "date": "2025-04-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Representative Udell added as a cosponsor",
+      "date": "2025-05-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senator Ratcliff added as a coauthor",
+      "date": "2025-05-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Amendment 1 offered by Senator James",
+      "date": "2025-05-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Representative Stroud added as a cosponsor",
+      "date": "2025-05-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Representative Anderson added as a cosponsor",
+      "date": "2025-06-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tomczyk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Tomczyk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cabral-Guevara",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cabral-Guevara\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quinn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Quinn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB222",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB222.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB222",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSB222",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Bill 201",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab201",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb222",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: S - Judiciary and Public Safety"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "scraped_at": "2025-07-28T05:50:49+00:00",
+  "_id": "d00cc9bc-6b76-11f0-9b6a-02d480e73fed"
+}

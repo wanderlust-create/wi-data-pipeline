@@ -1,0 +1,200 @@
+{
+  "legislative_session": "2025",
+  "identifier": "AB281",
+  "title": "Relating to: the employment eligibility verification program and granting rule-making authority. (FE)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced by Representatives Piwowarczyk, Brill, Brooks, Dittrich, Goeben, Knodl, Kreibich, Maxey, Melotik, Murphy, Mursau, Steffen and Wichgers; \ncosponsored by Senators Wimberger, Jagler, Nass and Tomczyk",
+      "date": "2025-05-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read first time and referred to Committee on Commerce",
+      "date": "2025-05-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Piwowarczyk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Piwowarczyk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dittrich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dittrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Goeben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Goeben\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Knodl",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Knodl\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kreibich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kreibich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maxey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maxey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melotik",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melotik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murphy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mursau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mursau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steffen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steffen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wichgers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wichgers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB281",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB281.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB281",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 287",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb287",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab281",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: A - Commerce"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "scraped_at": "2025-07-28T05:51:51+00:00",
+  "_id": "f598ba92-6b76-11f0-9b6a-02d480e73fed"
+}

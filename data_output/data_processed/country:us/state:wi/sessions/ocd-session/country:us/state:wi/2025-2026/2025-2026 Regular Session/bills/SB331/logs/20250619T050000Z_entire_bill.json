@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB331",
+  "title": "Relating to: operation of all-terrain and utility terrain vehicles, off-highway motorcycles, and snowmobiles and revision of the Department of Transportation highway maintenance manual.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced by Senators Marklein, Stafsholt, Feyen and Nass; \ncosponsored by Representatives Mursau, Green, Goodwin, Kaufert, Knodl, Melotik, O'Connor and Piwowarczyk",
+      "date": "2025-06-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read first time and referred to Committee on Transportation and Local Government",
+      "date": "2025-06-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marklein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marklein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stafsholt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stafsholt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Feyen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Feyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nass",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nass\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB331",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB331.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSB331",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Bill 329",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab329",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb331",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: S - Transportation and Local Government"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "scraped_at": "2025-07-28T05:51:03+00:00",
+  "_id": "d8b7f87a-6b76-11f0-9b6a-02d480e73fed"
+}

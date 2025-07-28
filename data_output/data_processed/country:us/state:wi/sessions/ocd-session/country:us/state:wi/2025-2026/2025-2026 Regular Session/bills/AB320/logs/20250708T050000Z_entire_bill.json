@@ -1,0 +1,224 @@
+{
+  "legislative_session": "2025",
+  "identifier": "AB320",
+  "title": "Relating to: increasing certain court fees and surcharges and indexing those amounts for inflation. (FE)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced by Representatives Allen, O'Connor, Donovan, Mursau, Armstrong, Behnke, Brill, Brooks, Dittrich, Goeben, B. Jacobson, Kitchens, Maxey, Piwowarczyk, Steffen and Melotik; \ncosponsored by Senator Wanggaard",
+      "date": "2025-07-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read first time and referred to Committee on Judiciary",
+      "date": "2025-07-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Allen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "O'Connor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"O'Connor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donovan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Donovan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mursau",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mursau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Armstrong",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Armstrong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Behnke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Behnke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brill",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooks",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dittrich",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dittrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Goeben",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Goeben\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Jacobson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Jacobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kitchens",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kitchens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maxey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maxey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Piwowarczyk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Piwowarczyk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steffen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steffen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melotik",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melotik\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB320",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB320.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB320",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 333",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb333",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab320",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: A - Judiciary"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "scraped_at": "2025-07-28T05:51:54+00:00",
+  "_id": "f6f89312-6b76-11f0-9b6a-02d480e73fed"
+}

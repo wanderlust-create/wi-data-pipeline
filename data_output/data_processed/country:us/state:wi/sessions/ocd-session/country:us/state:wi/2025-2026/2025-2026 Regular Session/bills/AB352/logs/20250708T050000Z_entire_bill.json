@@ -1,0 +1,144 @@
+{
+  "legislative_session": "2025",
+  "identifier": "AB352",
+  "title": "Relating to: limiting the release of certain balloons into the atmosphere, granting rule-making authority, and providing a penalty.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced by Representatives Sinicki, Cruz, Ortiz-Velez, Palmeri, Prado and Roe; \ncosponsored by Senators Carpenter, Larson, Ratcliff, Smith and Spreitzer",
+      "date": "2025-07-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read first time and referred to Committee on Environment",
+      "date": "2025-07-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sinicki",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sinicki\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cruz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ortiz-Velez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ortiz-Velez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Palmeri",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Palmeri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Prado",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Prado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Roe\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB352",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB352.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB352",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 360",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb360",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab352",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: A - Environment"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "scraped_at": "2025-07-28T05:51:55+00:00",
+  "_id": "f7caeda8-6b76-11f0-9b6a-02d480e73fed"
+}

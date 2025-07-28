@@ -1,0 +1,34 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Mental Health and Substance Abuse Prevention, Ayes 7, Noes 2",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e74e4506-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "AB73",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist202071",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist202071-AB73",
+  "_id": "e75bc4c4-6b76-11f0-9b6a-02d480e73fed"
+}

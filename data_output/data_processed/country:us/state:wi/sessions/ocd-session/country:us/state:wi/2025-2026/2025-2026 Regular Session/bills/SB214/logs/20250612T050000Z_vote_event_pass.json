@@ -1,0 +1,34 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Health, Ayes 3, Noes 2",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-06-12T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "cf5eab34-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "SB214",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist205681",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist205681-SB214",
+  "_id": "cf783338-6b76-11f0-9b6a-02d480e73fed"
+}

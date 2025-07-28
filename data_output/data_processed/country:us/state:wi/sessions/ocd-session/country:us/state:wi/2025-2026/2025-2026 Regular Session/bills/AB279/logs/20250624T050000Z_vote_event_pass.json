@@ -1,0 +1,32 @@
+{
+  "identifier": "",
+  "motion_text": "Assembly Substitute Amendment 1 laid on table, Ayes 52, Noes 44",
+  "motion_classification": [],
+  "start_date": "2025-06-24T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "f572519a-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "AB279",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 52
+    },
+    {
+      "option": "no",
+      "value": 44
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB279-ASA1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "AB279-ASA1-AB279",
+  "_id": "f5846966-6b76-11f0-9b6a-02d480e73fed"
+}

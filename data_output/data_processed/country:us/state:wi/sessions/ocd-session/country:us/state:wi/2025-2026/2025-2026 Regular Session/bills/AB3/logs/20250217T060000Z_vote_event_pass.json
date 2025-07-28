@@ -1,0 +1,34 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Education, Ayes 8, Noes 5",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-17T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e114a64e-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "AB3",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist199187",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist199187-AB3",
+  "_id": "e132a64e-6b76-11f0-9b6a-02d480e73fed"
+}

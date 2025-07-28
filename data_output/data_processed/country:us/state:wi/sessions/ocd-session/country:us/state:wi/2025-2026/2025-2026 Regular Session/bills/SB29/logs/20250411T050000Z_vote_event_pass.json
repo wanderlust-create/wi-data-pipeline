@@ -1,0 +1,34 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on Education, Ayes 4, Noes 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "c1d524a2-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "SB29",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist201921",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist201921-SB29",
+  "_id": "c1e20c4e-6b76-11f0-9b6a-02d480e73fed"
+}

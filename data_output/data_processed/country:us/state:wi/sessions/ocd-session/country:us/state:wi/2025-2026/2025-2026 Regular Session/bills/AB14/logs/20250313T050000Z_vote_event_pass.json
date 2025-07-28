@@ -1,0 +1,32 @@
+{
+  "identifier": "",
+  "motion_text": "Referred to Campaigns and Elections, Ayes 53, Noes 44",
+  "motion_classification": [],
+  "start_date": "2025-03-13T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "e24d883c-6b76-11f0-9b6a-02d480e73fed",
+  "bill_action": null,
+  "bill_identifier": "AB14",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 53
+    },
+    {
+      "option": "no",
+      "value": 44
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/committee/2025/2911",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2911-AB14",
+  "_id": "e26abc0e-6b76-11f0-9b6a-02d480e73fed"
+}
